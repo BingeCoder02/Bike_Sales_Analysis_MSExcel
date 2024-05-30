@@ -6,7 +6,7 @@ An analysis of the historical sales data for a bike company selling its product 
 A historical dataset with more than 1000 rows and 14 columns. Data is stored in a single table.
 ![excelprjss1](https://github.com/BingeCoder02/Bike_Sales_Analysis_MSExcel/assets/149510848/303ae915-5957-4c90-a444-0fcf3b07c3a2)
 <p align="center"><img width="120" alt="orderanalysis" src="https://user-images.githubusercontent.com/71536311/192024449-3184c7d2-8dbc-46bd-b531-e8c9f68d9ee3.png"></p
-https://github.com/BingeCoder02/Bike_Sales_Analysis_MSExcel/assets/149510848/75c52a43-b4f6-4e7c-8c8b-1ddb871fbb37
+![excelprjgif](https://github.com/BingeCoder02/Bike_Sales_Analysis_MSExcel/assets/149510848/2751ff4f-39b6-499a-94c8-5bb766e203e4)
 <p align="center"><img width="262" alt="toggleoptionbuttons" src="https://user-images.githubusercontent.com/71536311/192081379-3573aef2-3a80-4a09-b114-2c58a961a156.png"></p>   
 <p align="center"><img width="405" alt="profitmonquart" src="https://user-images.githubusercontent.com/71536311/192081388-68e4e70c-b8a3-4fe6-9e1c-84000ad8031f.png"> </p>     
   
