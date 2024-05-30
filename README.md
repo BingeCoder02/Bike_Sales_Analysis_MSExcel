@@ -13,6 +13,10 @@ Maritial status, region and education.
 ## Tools Used
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+
+## Spreadsheet
+ <a href = "https://1drv.ms/x/s!AhyShJFSqLeMtHJSUZNzV81JEK4c?e=UYCSUt" target = "_main"> Click here for MS excel spread sheet</a>
+
 ## Overview
 
 ![p1](https://github.com/BingeCoder02/Bike_Sales_Analysis_MSExcel/assets/149510848/2751ff4f-39b6-499a-94c8-5bb766e203e4)
