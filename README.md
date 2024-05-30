@@ -29,8 +29,8 @@ Maritial status, region and education.
 
 ## Overview
 ![image](https://user-images.githubusercontent.com/71536311/195052888-c7c70f32-81e7-4a49-b7c7-19db0c9126bc.png)
-![excelprjgif](https://github.com/BingeCoder02/Bike_Sales_Analysis_MSExcel/assets/149510848/2751ff4f-39b6-499a-94c8-5bb766e203e4)
-![p1](https://user-images.githubusercontent.com/71536311/192129988-152f8048-77e3-43bb-90a6-ab8955581e09.gif)
+![p1](https://github.com/BingeCoder02/Bike_Sales_Analysis_MSExcel/assets/149510848/2751ff4f-39b6-499a-94c8-5bb766e203e4)
+
 ![p2](https://user-images.githubusercontent.com/71536311/192128415-eff3e519-397d-4596-a6ef-84ba9f335f8d.gif)
 ![p3](https://user-images.githubusercontent.com/71536311/192136774-3b7d46d8-e060-48b2-ae02-44e9fba7ad9d.gif)
 ![p4](https://user-images.githubusercontent.com/71536311/192136941-32cc6e78-38bb-4ec5-abd4-1d26d47ade11.gif)
